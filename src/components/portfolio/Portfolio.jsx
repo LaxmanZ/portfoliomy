@@ -42,21 +42,21 @@ const data = [
     image: IMG5,
     title: "Minting, Selling, Buying NFT marketing",
     github: "https://github.com",
-    demo: "https://google.com",
+    demo: "/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Technological Website 1",
-    github: "https://github.com/LaxmanZ/tindog",
-    demo: "https://google.com",
+    title: "Tech Company App with Firebase Authentication",
+    github: "https://github.com/LaxmanZ/tech-company-app/tree/master/src",
+    demo: "",
   },
   {
     id: 7,
     image: IMG7,
-    title: "Technological Website 2",
-    github: "https://github.com/LaxmanZ/tindog",
-    demo: "https://google.com",
+    title: "Technological Website using React and scss",
+    github: "https://github.com/LaxmanZ/technology-app-2/tree/master",
+    demo: "https://reactoneproject.vercel.app/",
   },
 ];
 
